@@ -2,6 +2,12 @@
 
 Creating a test repository for Codecademy’s Open Source course!
 
+**Description**
+**Usage Guide**
+**Local setup guide**
+**Links to documentation**
+
+
 - **Apple**: Malus domestica
 - **Banana**: Musa acuminata
 - **Cherry**: Prunus cerasus
